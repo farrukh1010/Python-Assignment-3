@@ -80,3 +80,82 @@
 
 
 # print(student)
+
+
+# Iterating through Dictionaries
+# 6.	Iterate through the dictionary student and print all keys.
+# Example dictionary
+# student = {
+#     "name": "John Doe",
+#     "age": 20,
+#     "major": "Computer Science",
+#     "gpa": 3.8
+# }
+
+
+# for key in student:
+#     print(key)
+
+
+
+
+# 7.	Iterate through the dictionary student and print all values.
+
+# student = {
+#     "name": "John Doe",
+#     "age": 20,
+#     "major": "Computer Science",
+#     "gpa": 3.8
+# }
+
+
+# for value in student.values():
+#     print(value)
+
+
+# 8.	Iterate through the dictionary student and print all key-value pairs in the format key: value.
+
+# student = {
+#     "name": "John Doe",
+#     "age": 20,
+#     "major": "Computer Science",
+#     "gpa": 3.8
+# }
+
+
+# for key, value in student.items():
+#     print(f"{key}: {value}")
+
+
+# 9.	Check if the key grade exists in the student dictionary and print True or False.
+
+
+
+# student = {
+#     "name": "John Doe",
+#     "age": 20,
+#     "major": "Computer Science",
+#     "gpa": 3.8
+# }
+
+
+# key_exists = "grade" in student
+# print(key_exists)
+
+
+
+# 10.	Count the total number of keys in the student dictionary.
+
+
+
+# student = {
+#     "name": "John Doe",
+#     "age": 20,
+#     "major": "Computer Science",
+#     "gpa": 3.8
+# }
+
+
+# total_keys = len(student)
+# print(total_keys)
+
